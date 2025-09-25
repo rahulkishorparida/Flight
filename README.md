@@ -1,6 +1,6 @@
 # Flight
 Spring Boot CRUD project with Flyway database versioning and custom caching using Caffeine.
-## 🔑 Features
+##  Features
 
 -  **Database Versioning** with Flyway: Manage database schema changes with versioned migration scripts.  
 -  **High-Performance Caching** using Caffeine: Custom `CacheManager` with TTL and max size per cache.  
