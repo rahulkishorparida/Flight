@@ -1,0 +1,6 @@
+CREATE TABLE boy (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    phone BIGINT,
+    email VARCHAR(100)
+);

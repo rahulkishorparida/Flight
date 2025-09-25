@@ -1,0 +1,2 @@
+ALTER TABLE girl
+ADD COLUMN email VARCHAR(255) AFTER phone;
